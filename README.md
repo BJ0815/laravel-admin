@@ -5,7 +5,7 @@
 ## 配置
     - composer install
     - npm install
-    - cp .env.example .env</pre>
+    - cp .env.example .env
 
     - php artisan config:clear
     - php artisan config:cache
