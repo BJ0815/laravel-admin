@@ -1,7 +1,6 @@
 ## Laravel Laratrust 基本後台管理
 嘗試使用laratrust做權限管理機制
 
---
 ## 配置
     - composer install
     - npm install
